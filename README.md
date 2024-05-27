@@ -4,7 +4,7 @@
 Este es un sistema de gestion de tareas que permite a los usuarios crear, editar y completar tareas de forma sencilla
 
 ## Estado del proyecto
-El proyecto esta en su fase final
+El proyecto esta en fase de actualizacion 
 
 ## Funcionalidades
 
@@ -25,7 +25,7 @@ El proyecto esta en su fase final
 7. Buscar tareas: Permite al usuario buscar tareas específicas en función de palabras clave o frases.
 
 ## ¿Sabes como contactarnos?
- Si necesita mas informacion o ayuda, accede a nuestra plataforma de Telegram 
+ Si necesita mas informacion o ayuda, accede a nuestra plataforma de Telegram y Whatsapp
 
 
 
