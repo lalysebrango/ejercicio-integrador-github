@@ -4,7 +4,7 @@
 Este es un sistema de gestion de tareas que permite a los usuarios crear, editar y completar tareas de forma sencilla
 
 ## Estado del proyecto
-El proyecto esta en su fase final
+El proyecto esta en fase de actualizacion 
 
 ## Funcionalidades
 
